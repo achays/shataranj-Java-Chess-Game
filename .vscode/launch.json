@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Chess Server",
+      "request": "launch",
+      "mainClass": "server.ChessServer",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Launch Chess Client",
+      "request": "launch",
+      "mainClass": "client.ChessClient",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal"
+    }
+  ]
+}

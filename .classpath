@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <!-- JRE system library -->
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <!-- Your source code folder -->
+  <classpathentry kind="src" path="src"/>
+  <!-- Any library JARs you’ve placed in lib/ -->
+  <classpathentry kind="lib" path="lib/commons-lang3-3.12.0.jar"/>
+  <!-- If you have other JARs, add more entries here -->
+  <!--
+  <classpathentry kind="lib" path="lib/another-library.jar"/>
+  -->
+  <!-- Where compiled .class files go -->
+  <classpathentry kind="output" path="bin"/>
+</classpath>
